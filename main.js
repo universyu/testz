@@ -743,7 +743,7 @@ async function main() {
     } catch (err) {}
     const url = new URL(
         "basket.splat", 
-        "https://test12.countingstars.cc"
+        "https://test13.countingstars.cc"
     );
     const req = await fetch(url, {
         mode: "cors", // no-cors, *cors, same-origin
