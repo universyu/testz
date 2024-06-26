@@ -742,7 +742,7 @@ async function main() {
         carousel = false;
     } catch (err) {}
     const url = new URL(
-        "basket.splat", 
+        "monster.splat", 
         "https://test13.countingstars.cc"
     );
     const req = await fetch(url, {
